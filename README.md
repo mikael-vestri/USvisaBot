@@ -1,4 +1,4 @@
-# VistoBot 🇺🇸🤖
+# VisaBot 🇺🇸🤖
 
 An automated bot that checks for earlier available appointment dates for U.S. visa interviews on the official website ([https://ais.usvisa-info.com](https://ais.usvisa-info.com)) and sends an email alert if any date earlier than your currently scheduled one is found.
 
